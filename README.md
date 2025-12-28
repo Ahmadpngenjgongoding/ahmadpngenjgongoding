@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm an **AI Engineer (Student)** with a keen focus on **Machine Learning** and cutting-edge technologies like **GenAI**. My core technical expertise revolves around **Python** and the ML/DL framework ecosystem **Tensorflow**. I specialize in the hands-on implementation of Machine Learning, Deep Learning, and Computer Vision models for classification, regression, prediction, object detection, and segmentation tasks. Additionally, I explore GenAI solutions using **LLMs** and **RAG** for tasks such as text generation and summarization.
+I am an **AI Engineer (Student)** with a keen focus on **Machine Learning** and cutting-edge technologies like **GenAI**. My core technical expertise revolves around **Python** and the ML/DL framework ecosystem **Tensorflow**. I specialize in the hands-on implementation of model Machine Learning, Deep Learning, and Computer Vision—developing models for classification, regression, prediction, object detection, and segmentation tasks. Additionally, I explore GenAI solutions using **LLMs** and **RAG** for tasks such as text generation and summarization.
 
 ---
 
@@ -18,29 +18,29 @@ I'm an **AI Engineer (Student)** with a keen focus on **Machine Learning** and c
 
 ### 🧠 Intelligence Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ### 📊 Data Science & Analysis
 <p align="left">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATPLOTLIB-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ### ⚙️ Engineering & MLOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
 ---
@@ -48,8 +48,8 @@ I'm an **AI Engineer (Student)** with a keen focus on **Machine Learning** and c
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadpngenjgongoding&show_icons=true&theme=dark&hide_border=false&title_color=0077B5&icon_color=0077B5&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadpngenjgongoding&theme=dark&hide_border=false&stroke=0077B5&background=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadpngenjgongoding&show_icons=true&theme=react&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadpngenjgongoding&theme=react&border_radius=10" width="48%" />
 </p>
 
 ---
