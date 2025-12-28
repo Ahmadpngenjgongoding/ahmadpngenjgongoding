@@ -48,7 +48,7 @@ I am an **AI Engineer (Student)** with a keen focus on **Machine Learning** and 
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmadpngenjgongoding/ahmadpngenjgongoding/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadpngenjgongoding&show_icons=true&theme=react&border_radius=10" width="52%" />
 </p>
 
 ---
