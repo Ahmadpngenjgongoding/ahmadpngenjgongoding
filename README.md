@@ -48,7 +48,7 @@ I am an **AI Engineer (Student)** with a keen focus on **Machine Learning** and 
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadpngenjgongoding&show_icons=true&theme=react&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadpngenjgongoding&show_icons=true&theme=react&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadpngenjgongoding&theme=react&border_radius=10" width="48%" />
 </p>
 
